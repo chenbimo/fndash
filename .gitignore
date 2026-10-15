@@ -1,0 +1,15 @@
+# 工作区通用忽略(见 moonbit/scripts/NEW-PROJECT.md)
+.mooncakes/
+.temp/
+_build/
+_build-wsl/
+*.log
+nul
+
+# 敏感与本地态:令牌、私钥与 CLI 本地状态禁止入库(见工作区规范第八节)
+.cloudflare/
+.wrangler/
+.env
+.env.*
+*.key
+*.pem
