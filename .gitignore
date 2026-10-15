@@ -13,3 +13,4 @@ nul
 .env.*
 *.key
 *.pem
+.temp/
