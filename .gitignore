@@ -14,3 +14,9 @@ nul
 *.key
 *.pem
 .temp/
+
+# 文档站产物
+dist/
+docs/dist/
+docs/node_modules/
+node_modules/
