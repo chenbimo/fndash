@@ -1,6 +1,6 @@
 # fndash 仓库约定
 
-通用规范见 `moonbit/scripts/NEW-PROJECT.md`(工作区公共仓库,不在本仓库内),本文件只写本仓库特有的值。
+通用规范分两处,都在本仓库之外:工作区铁律（工具链、依赖、测试三档）见 `moonbit/AGENTS.md`;新建项目、提交格式、命名、文档站、自检清单见 `moonbit/scripts/NEW-PROJECT.md`。本文件只写本仓库特有的值。
 
 ## 工具链
 
